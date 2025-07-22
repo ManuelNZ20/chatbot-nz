@@ -4,3 +4,9 @@ node_modules/
 *.log
 
 .DS_Store
+
+
+/.wwebjs_cache
+.wwebjs_cache/
+/.wwebjs_auth
+.wwebjs_auth/
