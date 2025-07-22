@@ -1,0 +1,6 @@
+# Modulos de Node.js que no deben ser ignorados
+node_modules/
+
+*.log
+
+.DS_Store
